@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'BFSI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67193AC4095148F2968667E925E8E2B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A900FD23B447461E97995D18C6599C2A }}
